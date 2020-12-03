@@ -113,4 +113,11 @@ public class MainActivity extends AppCompatActivity {
     public void resetSports(View view) {
         initializeData();
     }
+
+    /*
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+    }
+     */
 }
